@@ -1,6 +1,6 @@
 .main{
 	background-color: purple;
-  padding: 10px 10px;
+  padding: 10px;
   border-left: 5px solid green;
 
   width: 200px;
@@ -9,4 +9,5 @@
 	font-size:20px;
 	color:white;
 	text-decoration: underline;
+	margin:0;
 }
